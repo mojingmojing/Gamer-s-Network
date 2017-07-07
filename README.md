@@ -1,5 +1,3 @@
---------------------------- 
 Intro to CS Final Project   
-Gaming Social Network       
---------------------------- 
+Gaming Social Network
 
