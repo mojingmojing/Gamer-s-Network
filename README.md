@@ -1,5 +1,5 @@
-# --------------------------- #
-# Intro to CS Final Project   #
-# Gaming Social Network       #
-# --------------------------- #
+ --------------------------- 
+ Intro to CS Final Project   
+ Gaming Social Network       
+ --------------------------- 
 
